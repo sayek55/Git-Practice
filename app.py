@@ -12,3 +12,5 @@ print('how was your day?')
 
 import random
 print (random.randint(1, 100))
+
+print('start again')
