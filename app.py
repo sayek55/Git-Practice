@@ -14,3 +14,5 @@ import random
 print (random.randint(1, 100))
 
 print('start again')
+print('Hello worldgit ')
+print('Life is too difficult')
